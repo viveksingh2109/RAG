@@ -1,4 +1,4 @@
-import PyMuPDF  # PyMuPDF
+import fitz # PyMuPDF
 import re
 import faiss
 import sqlite3
