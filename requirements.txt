@@ -1,0 +1,20 @@
+PyMuPDF==1.20.0
+regex==2022.10.31
+faiss-cpu==1.7.3
+sqlite3  # No version needed; built-in with Python
+sentence-transformers==2.2.2
+langdetect==1.0.9
+groq==1.0.1
+pytesseract==0.3.9
+Pillow==9.4.0
+io  # No version needed; part of standard library
+time  # No version needed; part of standard library
+functools  # No version needed; part of standard library
+deep-translator==1.9.0
+numpy==1.24.3
+streamlit==1.14.0
+speechrecognition==3.8.1
+json  # No version needed; part of standard library
+datetime  # No version needed; part of standard library
+requests==2.28.1
+streamlit-lottie==0.0.2
