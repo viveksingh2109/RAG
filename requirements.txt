@@ -5,7 +5,7 @@ PyMuPDF==1.22.3  # older version known to work with Python 3.10
 faiss-cpu==1.7.4
 sentence-transformers==2.2.2
 langdetect==1.0.9
-groq==0.1.2
+groq
 pytesseract==0.3.10
 Pillow==9.4.0
 deep-translator==1.8.3
