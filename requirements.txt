@@ -2,10 +2,10 @@ pip>=24.3.1
 setuptools>=65.5.0
 wheel>=0.41.0
 PyMuPDF==1.23.1
-faiss-cpu==1.7.4 --no-binary :all:
+faiss-cpu==1.7.4
 sentence-transformers==2.2.2
 langdetect==1.0.9
-groq==0.1.2  # adjust version if specific requirements are known
+groq==0.1.2
 pytesseract==0.3.10
 Pillow==9.4.0
 deep-translator==1.8.3
@@ -14,3 +14,4 @@ streamlit>=1.21.0
 speechrecognition==3.8.1
 requests==2.31.0
 streamlit-lottie==0.0.3
+python-multipart==0.0.6
