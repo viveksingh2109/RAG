@@ -1,17 +1,17 @@
 pip>=24.3.1
-setuptools
-wheel
-PyMuPDF==1.22.3  # older version known to work with Python 3.10
+setuptools>=65.5.0  # Optional, ensure compatibility
+wheel>=0.41.0
+groq
+PyMuPDF==1.22.3  # Known to work with Python 3.10
 faiss-cpu==1.7.4
 sentence-transformers==2.2.2
 langdetect==1.0.9
-groq
 pytesseract==0.3.10
-Pillow==9.4.0
+Pillow>=9.4.0
 deep-translator==1.8.3
-numpy==1.23.5
-streamlit==1.29.0  # locked version for stability
-SpeechRecognition==3.8.1
-requests==2.31.0
-streamlit-lottie==0.0.3
-python-multipart==0.0.6
+numpy>=1.23.5
+streamlit==1.29.0  # Locked version for stability
+SpeechRecognition>=3.8.1
+requests>=2.31.0
+streamlit-lottie>=0.0.3
+python-multipart>=0.0.6
