@@ -1,6 +1,6 @@
 pip>=24.3.1
-setuptools>=65.5.0
-wheel>=0.41.0
+setuptools
+wheel
 PyMuPDF==1.22.3  # older version known to work with Python 3.10
 faiss-cpu==1.7.4
 sentence-transformers==2.2.2
