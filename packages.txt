@@ -1,8 +1,0 @@
-python3.9-dev
-python3.9-venv
-tesseract-ocr
-libtesseract-dev
-libmupdf-dev
-swig
-build-essential
-cmake
