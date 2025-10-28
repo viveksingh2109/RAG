@@ -142,7 +142,9 @@ def generate_response(query, relevant_chunks):
     """
     
     try:
-        key = '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'
+        # Use a placeholder for the API key.
+        # Consider using environment variables or Streamlit secrets for production.
+        key = "<API_KEY>" 
         client = Groq(api_key=key)
         
         max_retries = 3
